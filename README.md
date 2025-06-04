@@ -29,6 +29,5 @@ ImageObfuscatorPro/
 ├── anomaly_elements/          # PNG elements to inject as "anomalies"
 ├── emoji_elements/            # PNG emojis to overlay randomly
 ├── random_elements/           # PNG backgrounds/textures/images to mix in
-├── assets/                    # Optional: for demo images, GIFs, README visuals
 ├── obfuscator.py              # Main obfuscation script
 └── README.md
