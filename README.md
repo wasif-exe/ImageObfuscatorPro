@@ -31,7 +31,7 @@ ImageObfuscatorPro/
 ├── emoji_elements/            # PNG emoji icons to randomly overlay
 ├── random_elements/           # PNGs or JPEGs to overlay as random textures
 ├── assets/                    # Optional demo visuals or screenshots
-├── obfuscator.py              # Main script
+├── un-reverse-search.py       # Main script
 └── README.md                  # Project documentation
 ````
 
@@ -65,7 +65,7 @@ pip install pillow numpy
 3. **Run the script**:
 
 ```bash
-python obfuscator.py
+python un-reverse-search.py
 ```
 
 4. **Interactive Prompts**:
