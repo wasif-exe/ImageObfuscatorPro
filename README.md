@@ -2,8 +2,6 @@
 
 **ImageObfuscatorPro** is a powerful Python tool designed to apply layered obfuscation to images for data augmentation, privacy preservation, or creative distortion. It performs subtle transformations like cropping, gradient overlays, emoji insertion, noise addition, skewing, JPEG artifact simulation, and more.
 
-![demo](assets/demo.png) <!-- optional -->
-
 ---
 
 ## ✨ Features
